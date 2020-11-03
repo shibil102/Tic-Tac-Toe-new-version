@@ -3,20 +3,15 @@
     margin: 0;
     box-sizing: border-box;
 }
-p{
+.FooterMessage{
     text-align: center;
     opacity: 0.3;
     color: gray;
     font-family: "Trebuchet MS";
     font-size: small;
 }
-@media(max-width: 450px){
-   p{
-    font-size: x-small;
+@media(max-height: 550px){
+   .FooterMessage{
+    display: none;
    } 
-}
-@media(max-width: 300px){
-    p{
-        display: none;
-    }
 }
