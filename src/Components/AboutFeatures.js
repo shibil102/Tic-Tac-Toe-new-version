@@ -11,7 +11,6 @@ const AboutFeatures = () => {
             <h5 className="developer">Developers</h5>
             <p className="Dm">Mohamed nizam</p>
             <p className="Dm">Mohamed shibin</p>
-            <p className="Dm">Mohamed Shameem</p>
             <Link to = '/'><button className='back' >BACK</button></Link>
             </div>
         </div>
