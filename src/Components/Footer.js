@@ -7,7 +7,7 @@ const Footer = () => {
             <footer>
             <p className="FooterMessage">
             Copyright 2020-2020 by India. All right reserved.<br/>
-            Byte Hope innovations
+            Mohamed shibin & Mohammed Nizam
             </p>
             </footer>
         </div>
